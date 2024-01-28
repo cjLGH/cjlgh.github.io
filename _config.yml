@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: New Title
+title: Pigeon Thoughts
 subtitle: "This is weird..."
 email:
 description: "What is this?"
@@ -60,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Charles Leonard"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Be yourself and better one thing everyday."
+  name: "Charles Leonard"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Be yourself and better one thing everyday."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
